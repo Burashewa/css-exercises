@@ -1,0 +1,16 @@
+#div_1{
+    color: #0000ff;
+    font-size:36px;
+}
+#div_2{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(120, 73%, 75%);
+}
+.firstClass{
+    font-family:verdana,sans-serif,"DejaVu Sans";
+    background-color: #ffc0cb;
+}
+.secClass{
+    font-size: 24px;
+}
